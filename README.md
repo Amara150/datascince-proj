@@ -4,11 +4,9 @@ Task1:
 
 This project performs **Exploratory Data Analysis (EDA)** on the Titanic passenger dataset to uncover patterns in survival outcomes. It includes data cleaning, visualizations, and interpretation of key features like passenger class, gender, fare, and embarkation port.
 
----
-
 # Dataset
 
-Source: [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data) or [Data Science Dojo](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
+Source: [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset) or [Data Science Dojo](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 Size: 891 records, 12 features
 Key Features:
    `Survived`: 0 = No, 1 = Yes
