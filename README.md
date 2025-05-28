@@ -158,5 +158,6 @@ Implemented a manual input interface:
 Accepts 29 values (V1–V28 and transaction `Amount`)
 Automatically scales the `Amount`
 Predicts: "FRAUD DETECTED!"or "Transaction is legitimate."
-
+Author
+Amara Rehman
 
